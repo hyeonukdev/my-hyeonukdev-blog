@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://hyeonukdev.github.io/sitemap/sitemap-index.xml
+Host: https://hyeonukdev.github.io
